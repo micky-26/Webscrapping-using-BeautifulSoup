@@ -1,7 +1,7 @@
 # Webscrapping-using-BeautifulSoup
 A webscrapper to scrape data from Wikipedia
 
-![Uploading Web-Scrapping-Using-Python-BeautifulSoup-1.jpg…]()
+![Web-Scrapping-Using-Python-BeautifulSoup-1](https://github.com/micky-26/Webscrapping-using-BeautifulSoup/assets/106061980/12f33910-ea6a-4d8d-9d36-b1a361f9fe0c)
 
 Steps Performed:
 1. Installing Necessary Libraries
